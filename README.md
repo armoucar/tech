@@ -1,0 +1,2 @@
+# tech
+technical blog
